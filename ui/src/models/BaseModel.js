@@ -1,6 +1,6 @@
 export default class BaseModel {
   constructor(api) {
-    this.baseApi = "https://youtube-top.herokuapp.com/";
+    this.baseApi = "https://youtube-top.herokuapp.com";
     this.api = api;
   }
 
